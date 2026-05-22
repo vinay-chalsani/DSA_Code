@@ -1,0 +1,1 @@
+A function in python is defined by a def statement. python the general syntax looks like this: def function-name(Parameter list): statements, i.e the function body. The parameter python list consist of none or more par
